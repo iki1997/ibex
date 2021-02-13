@@ -44,7 +44,7 @@ var items = [
     ["filler", "DashedSentence", {s: "Here's a silly filler sentence"}],
     ["filler", "DashedSentence", {s: "And another silly filler sentence"}],
     ["relclause", "DashedSentence", {s: "A sentence that has a relative clause"}],
-    ["relclause", "DashedSentence", {s: "Another sentence that has a relative clause"}]
+    ["relclause", "DashedSentence", {s: "Another sentence that has a relative clause"}],
     ["sep", "Separator", { }],
 
     // New in Ibex 0.3-beta19. You can now determine the point in the experiment at which the counter
